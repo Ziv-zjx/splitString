@@ -1,0 +1,11 @@
+E:\Exercise\SplitString\TestSplitStrinh\TestSplitStrinh\obj\Debug\netcoreapp2.0\TestSplitStrinh.csprojAssemblyReference.cache
+E:\Exercise\SplitString\TestSplitStrinh\TestSplitStrinh\obj\Debug\netcoreapp2.0\TestSplitStrinh.csproj.CoreCompileInputs.cache
+E:\Exercise\SplitString\TestSplitStrinh\TestSplitStrinh\obj\Debug\netcoreapp2.0\TestSplitStrinh.AssemblyInfoInputs.cache
+E:\Exercise\SplitString\TestSplitStrinh\TestSplitStrinh\obj\Debug\netcoreapp2.0\TestSplitStrinh.AssemblyInfo.cs
+E:\Exercise\SplitString\TestSplitStrinh\TestSplitStrinh\bin\Debug\netcoreapp2.0\TestSplitStrinh.deps.json
+E:\Exercise\SplitString\TestSplitStrinh\TestSplitStrinh\bin\Debug\netcoreapp2.0\TestSplitStrinh.runtimeconfig.json
+E:\Exercise\SplitString\TestSplitStrinh\TestSplitStrinh\bin\Debug\netcoreapp2.0\TestSplitStrinh.runtimeconfig.dev.json
+E:\Exercise\SplitString\TestSplitStrinh\TestSplitStrinh\bin\Debug\netcoreapp2.0\TestSplitStrinh.dll
+E:\Exercise\SplitString\TestSplitStrinh\TestSplitStrinh\bin\Debug\netcoreapp2.0\TestSplitStrinh.pdb
+E:\Exercise\SplitString\TestSplitStrinh\TestSplitStrinh\obj\Debug\netcoreapp2.0\TestSplitStrinh.dll
+E:\Exercise\SplitString\TestSplitStrinh\TestSplitStrinh\obj\Debug\netcoreapp2.0\TestSplitStrinh.pdb
